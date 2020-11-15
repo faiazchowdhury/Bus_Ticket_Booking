@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bus Ticket Booking</string>
+    <string-array name="route">
+        <item>Dhaka-Khulna</item>
+        <item>Dhaka-Sylhet</item>
+        <item>Dhaka-Rajshahi</item>
+        <item>Dhaka-Chottogram</item>
+        <item>Rajshahi-Dhaka</item>
+        <item>Sylhet-Dhaka</item>
+        <item>Chottogram-Dhaka</item>
+        <item>Khulna-Dhaka</item>
+    </string-array>
+    <string-array name="time">
+        <item>12:01 AM</item>
+        <item>04:00 AM</item>
+        <item>08:00 AM</item>
+        <item>10:00 AM</item>
+        <item>12:01 PM</item>
+        <item>04:00 PM</item>
+        <item>08:00 PM</item>
+        <item>10:00 PM</item>
+    </string-array>
+</resources>
